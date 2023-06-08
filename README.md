@@ -11,11 +11,12 @@
 
 - :school: I am a `Junior` at [Computer Engineering Program](http://www.ene.unb.br/index.php/graduacao/cursos/graduacao-em-engenharia-de-computacao) at [University of Brasília](https://www.unb.br/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `BeeCrowd`, `Leetcode`, and machine learning enthusiast.
+- :factory: I am Cloud Infraestructure Analyst with experience in large corporations using IaaS. Also experienced in cloud big data tools.
+- 🌠: Currently with 2 certifications, one in [AWS](https://www.credly.com/badges/8fa259b6-1820-4fe0-a4be-241aa38b794c/linked_in_profile) and [Google Cloud](https://www.credential.net/a3da667f-1394-4879-876f-1a3be0e9696a#gs.wl8baq)
 - :student: I’m currently learning `Computer Science` and `Eletrical Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `par-time job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
+- :thinking: I’m currently open for a new `part-time job opportunity`, this is [MY RESUME]().
 <br>
 
 
