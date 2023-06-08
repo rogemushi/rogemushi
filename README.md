@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Computer Engineering Program](http://www.ene.unb.br/index.php/graduacao/cursos/graduacao-em-engenharia-de-computacao)) at [University of Brasília]((https://www.unb.br/)).
+- :school: I am a `Junior` at [Computer Engineering Program](http://www.ene.unb.br/index.php/graduacao/cursos/graduacao-em-engenharia-de-computacao) at [University of Brasília](https://www.unb.br/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Eletrical Engineering`.
