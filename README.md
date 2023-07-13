@@ -5,7 +5,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Computer Engineering Program](http://www.ene.unb.br/index.php/graduacao/cursos/graduacao-em-engenharia-de-computacao) at [University of Brasília](https://www.unb.br/).
+- :school: I am a `student` at [Computer Engineering Program](http://www.ene.unb.br/index.php/graduacao/cursos/graduacao-em-engenharia-de-computacao) at [University of Brasília](https://www.unb.br/).
 - :technologist: I love using technology as a solution to solve any people's problems.
 - :computer: I am a competitive programmer at `BeeCrowd`, `Leetcode`, and machine learning enthusiast.
 - :factory: I am Cloud Infraestructure Analyst with experience in large corporations using IaaS. Also experienced in cloud big data tools.
