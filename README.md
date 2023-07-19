@@ -3,14 +3,23 @@
   
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+### Hello, I’m Roger 👋🏼
 
-- :school: I am a `student` at [Computer Engineering Program](http://www.ene.unb.br/index.php/graduacao/cursos/graduacao-em-engenharia-de-computacao) at [University of Brasília](https://www.unb.br/).
-- :technologist: I love using technology as a solution to solve any people's problems.
-- :factory: Cloud Infraestructure Analyst with experience in large corporations using IaaS. Also experienced in cloud big data tools.
-- 🌠: Currently with 2 certifications, one in [AWS](https://www.credly.com/badges/8fa259b6-1820-4fe0-a4be-241aa38b794c/linked_in_profile) and another in [Google Cloud](https://www.credential.net/a3da667f-1394-4879-876f-1a3be0e9696a#gs.wl8baq)
-- :student: Learning `Computer Science` and `Eletrical Engineering`.
-- :thinking:  open for a new `part-time job opportunity`, this is [my resume in Portuguese](https://drive.google.com/file/d/1F7vEzD0z7wFH7lysx7mUqTblDQLLUfpx/view?usp=drive_link).
-<br>
+I'm a Software Developer born in Brazil.
 
-</p>
+I'm graduating in Computer Engineering at <a href="https://cic.unb.br/ec" target="_blank">UnB</a> (bachelor's degree) and already worked as Pre-Sales Analyst and Cloud Analyst in several projects.  My : HTML, CSS, Javascript, React, NodeJs, Typescript, Bootstrap, SASS, SQL, SQLite, AWS and Git.
+
+### Technologies and Tools:
+- Python, JavaScript & React.
+- AWS, Google Cloud, Huawei Cloud, Networking, Docker, Scrum, Github.
+
+### You can communicate with me in:
+🇧🇷 Portuguese (native language) <br>
+🇺🇸 English (advanced) 
+
+### Find me elsewhere:
+<div>
+  <a href="https://www.linkedin.com/in/roger-alencar-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkein"></a>
+  <a href = "mailto:roger.alencar.swe@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
