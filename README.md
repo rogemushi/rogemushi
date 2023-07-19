@@ -7,7 +7,7 @@
 
 I'm a Software Developer born in Brazil.
 
-I'm graduating in Computer Engineering at <a href="https://cic.unb.br/ec" target="_blank">UnB</a> (bachelor's degree) and already worked as Pre-Sales Analyst and Cloud Analyst in several projects.  My : HTML, CSS, Javascript, React, Typescript, Bootstrap, SASS, AWS and Git.
+I'm graduating in Computer Engineering at <a href="https://cic.unb.br/ec" target="_blank">UnB</a> (bachelor's degree) and already worked as Pre-Sales Analyst and Cloud Analyst in several projects.  My experiences taught me: HTML, CSS, Javascript, React, Typescript, Bootstrap, SASS, AWS and Git.
 
 ### Technologies and Tools:
 - Python, JavaScript & React.
