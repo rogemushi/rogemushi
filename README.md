@@ -6,11 +6,14 @@
 
 I'm a Software Developer born in Brazil.
 
-I'm graduating in Computer Engineering at <a href="https://cic.unb.br/ec" target="_blank">UnB</a> (bachelor's degree) and already worked as Pre-Sales Analyst and Cloud Analyst in several projects.  My experiences taught me: HTML, CSS, Javascript, React, Typescript, Bootstrap, SASS, AWS and Git. Certifications: AWS(CLF-001) and Google Cloud(Cloud Digital Leader) 
+I'm graduating in Computer Engineering at <a href="https://cic.unb.br/ec" target="_blank">UnB</a> (bachelor's degree) and already worked as Pre-Sales Analyst and Cloud Analyst in several projects.  My experiences taught me: HTML, CSS, Javascript, React, Typescript, Bootstrap, SASS, AWS and Git. 
 
 ### Technologies and Tools:
 - Python, JavaScript & React.
 - AWS, Google Cloud, Huawei Cloud, Networking, Docker, Scrum, Github.
+- Certifications:
+  - AWS(CLF-001) and;
+  - Google Cloud(Cloud Digital Leader) 
 
 ### You can communicate with me in:
 🇧🇷 Portuguese (native language) <br>
