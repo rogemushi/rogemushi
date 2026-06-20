@@ -1,27 +1,25 @@
-
-  
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 ### Hello, I’m Roger
 
-I'm a Software Developer born in Brazil.
+I'm a Software Engineer and AI enthusiast based in São Paulo, Brazil.
 
-I'm a undergratuate student in Computer Engineering program at <a href="https://cic.unb.br/ec" target="_blank">UnB</a> (bachelor's degree) and already worked as Pre-Sales Analyst and Cloud Analyst in several projects.  My experiences taught me: Python, HTML, CSS, Javascript, React, Typescript, Bootstrap, SASS, AWS and Git. 
+I'm an undergraduate student in the Software Engineering program at FIAP and currently work as a Production Engineering Intern in Asset Management at Goldman Sachs. My background blends building scalable AI infrastructure (including GenAI and RAG pipelines) from the ground up as a startup Co-Founder, with managing complex data pipelines and cloud architectures in large-scale enterprise financial environments.
 
 ### Technologies and Tools:
-- Python, JavaScript & React.
-- AWS, Google Cloud, Huawei Cloud, Networking, Docker, Scrum, Github.
-- Certifications:
-  - AWS(CLF-001) and;
-  - Google Cloud(Cloud Digital Leader) 
+- **AI & Programming:** Python, LangChain, RAG Systems, Prompt Engineering, SQL, Shell Scripting, C/C++.
+- **Software Engineering:** REST APIs, GitOps, Microservices Architecture, CI/CD, Clean Code.
+- **Infrastructure & Data:** AWS (Lambda, EC2, S3), Google Cloud Platform (GCP), Docker, Terraform, n8n Automation, PostgreSQL, Azure Databricks, Vector Search.
+- **Certifications:**
+  - AWS Certified Cloud Practitioner
+  - Google Cloud Digital Leader 
 
 ### You can communicate with me in:
-🇧🇷 Portuguese (native language) <br>
-🇺🇸 English (advanced) 
+🇧🇷 Portuguese (Native) <br>
+🇺🇸 English (Fluent) 
 
 ### Find me elsewhere:
 <div>
-  <a href="https://www.linkedin.com/in/roger-alencar-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkein"></a>
-  <a href = "mailto:roger.alencar.swe@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.linkedin.com/in/roger-alencar-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:rogerviana@protonmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
 </div>
