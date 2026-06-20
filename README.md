@@ -21,5 +21,4 @@ I'm an undergraduate student in the Software Engineering program at FIAP and cur
 ### Find me elsewhere:
 <div>
   <a href="https://www.linkedin.com/in/roger-alencar-it/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"></a>
-  <a href="mailto:rogerviana@protonmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
 </div>
